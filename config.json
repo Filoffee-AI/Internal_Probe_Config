@@ -1,7 +1,7 @@
 {
     "server": "http://magicoreinternal.linkeye.io/",
     "cust_id": [
-        "AIR_001"
+        "AIR_01"
     ],
     "headers": {
         "Content_Type": "text/html; charset=UTF-8"
@@ -10,7 +10,7 @@
         "username": "api_user",
         "password": "gm%5$FxX#N1$Z@0#^"
     },
-    "client_id": "TITAN_01",
+    "client_id": "AIR_01",
     "mysql_conf": {
         "host": "localhost",
         "user": "root",
@@ -27,24 +27,5 @@
     },
     "telegraf_conf": {
         "token": "GFEG0xTaMgg6SRB4QKQsJHpk4V76b3mXxqhyQvKTqLi7Gal9DAAY_uOqy6GlvqIPvv-GQKINDmN0u6AFmBRA1w=="
-    },
-    "wg_conf":{
-        "wg_server": "10.80.0.100",
-        "wg_password": "AHJXHZ@vrven899",
-        "wg_link": "wg.linkeye.io",
-        "wg_username": "root",
-        "wg_subnet": "10.80.8.0/21",
-        "wg_connection": "linkeye.io",
-        "wg_http_port": 443,
-        "wg_udp_port": 51820
-    },
-    "payload_creds":{
-        "username": "root",
-        "password": "Gyantech@069"
     }
 }
-
-
-
-
-
