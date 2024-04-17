@@ -10,7 +10,7 @@
         "username": "api_user",
         "password": "gm%5$FxX#N1$Z@0#^"
     },
-    "client_id": "TITAN_01",
+    "client_id": "CYIENT_001",
     "mysql_conf": {
         "host": "localhost",
         "user": "root",
@@ -40,6 +40,6 @@
     },
     "payload_creds":{
         "username": "root",
-        "password": "Gyantech@069"
+        "password": "L1nk@2023"
     }
 }
